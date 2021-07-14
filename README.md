@@ -1,2 +1,3 @@
 # pc-store
-recreación de un comercio de computadoras y artículos similares 
+a recreation of a coommerce including orders of computers with their respective components 
+A proyect built in Python, based in OOP (Object oriented Programming)
