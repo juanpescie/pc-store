@@ -14,7 +14,3 @@ class Mouse(DispositivoEntrada):
     def __str__(self):
         return f"Mouse id: {self._id_mouse}, {super().__str__()}"
 
-if __name__ == "__main__":
-    mouse1 = Mouse("usb", "php")
-    print(mouse1)
-
